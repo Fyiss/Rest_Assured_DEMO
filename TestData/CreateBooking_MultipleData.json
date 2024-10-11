@@ -1,0 +1,55 @@
+[{
+    "firstname" : "Darshith1",
+    "lastname" : "T N1",
+    "totalprice" : 500,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2018-01-01",
+        "checkout" : "2019-01-01"
+    },
+    "additionalneeds" : "Lunch"
+},
+{
+    "firstname" : "Darshith2",
+    "lastname" : "T N2",
+    "totalprice" : 500,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2018-01-01",
+        "checkout" : "2019-01-01"
+    },
+    "additionalneeds" : "Lunch"
+},
+{
+    "firstname" : "Darshith3",
+    "lastname" : "T N3",
+    "totalprice" : 500,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2018-01-01",
+        "checkout" : "2019-01-01"
+    },
+    "additionalneeds" : "Lunch"
+},
+{
+    "firstname" : "Darshith4",
+    "lastname" : "T N4",
+    "totalprice" : 500,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2018-01-01",
+        "checkout" : "2019-01-01"
+    },
+    "additionalneeds" : "Lunch"
+},
+{
+    "firstname" : "Darshith5",
+    "lastname" : "T N5",
+    "totalprice" : 500,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2018-01-01",
+        "checkout" : "2019-01-01"
+    },
+    "additionalneeds" : "Lunch"
+}]
